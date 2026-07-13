@@ -9,7 +9,13 @@ export default function Navbar() {
 
       <div className="nav-links">
         <NavLink to="/" className={({ isActive }) => `nav-link ${isActive ? "active" : ""}`}>
-          Tugas
+          Home
+        </NavLink>
+        <NavLink to="/mymine" className={({ isActive }) => `nav-link ${isActive ? "active" : ""}`}>
+          My Mine
+        </NavLink>
+        <NavLink to="/hasil" className={({ isActive }) => `nav-link ${isActive ? "active" : ""}`}>
+          Hasil
         </NavLink>
         <NavLink to="/about" className={({ isActive }) => `nav-link ${isActive ? "active" : ""}`}>
           Tentang
