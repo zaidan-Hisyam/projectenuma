@@ -22,7 +22,7 @@ export default function About() {
       </h1>
 
       <img 
-        src="public/img.jpeg" 
+        src="../public/img.jpeg" 
         alt="Gokil" 
         style={{
           width: "300px",
