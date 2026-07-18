@@ -31,7 +31,7 @@ export default function MyMine() {
           margin: 0,
         }}
       >
-        Siswa Rekayasa Perangkat Lunak SMK Negeri 2 Surakarta.
+        Saya adalah siswa SMK Negeri 2 Surakarta jurusan PPLG asal Laweyan, Surakarta. Saya berfokus pada pembuatan aplikasi dan web yang modern dan interaktif dengan menggabungkan kode yang bersih dan UI yang menarik.
       </p>
     </div>
   );

@@ -1,9 +1,10 @@
 export default function MyMine() {
 
     const dailyLogs = [
-    { day: "Day wan", content: "Belajar React & bikin To-Do List app" },
-    { day: "Day tu", content: "gtw" },
-    { day: "Day tri", content: "gtw" },
+    { day: "Day 1", content: "Belajar React & bikin To-Do List app" },
+    { day: "Day 2", content: "Belajar membuat website dengan menggunakan react dan supabase dengan bantuan AI (vibecoding)" },
+    { day: "Day 3", content: "Belajar membuat website Portofolio" },
+    { day: "Day 4", content: "Belajar IoT untuk membuat sistem sensor suhu dengan menggunakan website Simulator Wokwi" },
   ];
 
   return (
